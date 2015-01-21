@@ -14,8 +14,9 @@ namespace ForTesting
         [STAThread]
         static void Main()
         {
-            //ADDING THE COMMENT AGAIN!!
-            Application.EnableVisualStyles();
+            //ADDING THE COMMENT AGAIN!! and again. also create one variable
+            String someString = "someValue";
+            //Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
