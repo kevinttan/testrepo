@@ -15,6 +15,7 @@ namespace ForTesting
         static void Main()
         {
             //ADDING THE COMMENT AGAIN!! and again. also create one variable
+            //added by other user ttankevin
             String someString = "test";
             //Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
