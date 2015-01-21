@@ -14,7 +14,6 @@ namespace ForTesting
         [STAThread]
         static void Main()
         {
-            //adding comment for testing
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
