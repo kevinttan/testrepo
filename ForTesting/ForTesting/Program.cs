@@ -17,7 +17,7 @@ namespace ForTesting
             //ADDING THE COMMENT AGAIN!! and again. also create one variable
             //added by other user ttankevin
             String someString = "test";
-            //Application.EnableVisualStyles();
+            //Application.EnableVisualStyles();dsa
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
